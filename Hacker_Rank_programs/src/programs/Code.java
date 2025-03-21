@@ -16,7 +16,7 @@ public class Code {
 					result += "*";
 				}
 			}
-			result += currentChar;
+			result += currentChar; 
 		}
 		String ChallengeToken = "aylsnOu2qd";
 		String finalOutput = result + ChallengeToken;
