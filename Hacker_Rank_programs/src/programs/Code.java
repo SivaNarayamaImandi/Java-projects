@@ -13,7 +13,7 @@ public class Code {
 				if ((currentChar - '0') % 2 != 0 && (previousChar - '0') % 2 != 0) {
 					result += "-";
 				} else if ((currentChar - '0') % 2 == 0 && (previousChar - '0') % 2 == 0) {
-					result += "*"; 
+					result += "*";
 				}
 			}
 			result += currentChar; 
