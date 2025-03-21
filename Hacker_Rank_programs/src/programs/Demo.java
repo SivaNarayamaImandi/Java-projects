@@ -8,6 +8,6 @@ public class Demo {
 		String s=sc.nextLine();
 		int i=sc.nextInt();
 		System.out.printf("%-15s%03d",s,i);
-		sc.close();
+		sc.close(); 
 	}
 }
