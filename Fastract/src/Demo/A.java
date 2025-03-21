@@ -7,7 +7,7 @@ public class A {
 	{
 		this.empId=empId;
 		display();
-	}
+	} 
 	public void display()
 	{
 		System.out.println(empId);
