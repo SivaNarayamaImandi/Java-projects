@@ -6,7 +6,7 @@ public class Book {
 	private int bookNoOfPages;
 	private String bookTitle;
 	private String bookAuthor;
-	BookValidate bv;
+	BookValidate bv; 
 	
 //	public Book(int bookId, int bookCost, int bookNoOfPages, String bookTitle, String bookAuthor, BookValidate bv) {
 //		this.bookId = bookId;
