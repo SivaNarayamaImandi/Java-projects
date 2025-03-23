@@ -15,7 +15,7 @@ public class AAAAAA {
 					isPresent = false;
 			}
 			if (isPresent && count == 0)
-				System.out.print(a[i] + ",");
+				System.out.print(a[i] + ","); 
 		}
 		System.out.println();
 		squareOfSelfElements();
